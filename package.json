@@ -1,0 +1,22 @@
+{
+  "name": "opencv4nodejs-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demiton/opencv4nodejs-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demiton/opencv4nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/demiton/opencv4nodejs-starter#readme",
+  "devDependencies": {
+    "opencv4nodejs": "^4.9.0"
+  }
+}
